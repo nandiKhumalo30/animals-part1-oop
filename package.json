@@ -1,0 +1,19 @@
+{
+  "name": "animals-part1-oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandiKhumalo30/animals-part1-oop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  },
+  "homepage": "https://github.com/nandiKhumalo30/animals-part1-oop#readme"
+}
