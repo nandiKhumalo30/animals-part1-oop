@@ -1,4 +1,4 @@
-const { Dog, Cat, Home } = require("../src/animal.js");
+const { Dog, Cat} = require("../src/animal.js");
 var dog = new Dog();
 var cat = new Cat();
 
