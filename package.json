@@ -12,8 +12,8 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "jasmine": "^3.5.0"
-  },
-  "homepage": "https://github.com/nandiKhumalo30/animals-part1-oop#readme"
+  "homepage": "https://github.com/nandiKhumalo30/animals-part1-oop#readme",
+  "devDependencies": {
+    "jasmine": "^3.6.4"
+  }
 }
