@@ -6,7 +6,7 @@ class Animal {
     return `${this.name} makes a sound`
   }
   eat() {
-    return `${this.name} eats`;
+    return `Food`;
   }
 }
 
